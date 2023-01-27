@@ -1,2 +1,2 @@
 ## Description:
--Dynamic Array C library
+- A Dynamic Array C library!
